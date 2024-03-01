@@ -48,9 +48,15 @@ Explaining each part of the methodology 🗒️:
      2. **navigation algorithm**: TypeScript grid based algorithm that uses A* algorithm to find the optimal destination to reach the trash item.
         It provides the coordination between all parts of the robot, and does all of the heavy calculations. Clone the repo and run `npm run build` command.
         
+____________________________________________________________________________________________________________________________________________________________
+
+**contributers:**                              
+[ScraperWizard](https://github.com/ScraperWizard/robot-plath-planning)           
+[Hiba Hassan](https://github.com/hibahassan1)                    
+[m7mdony](https://github.com/m7mdony)                                
+[SaraMashal](https://github.com/SaraMashal)
 
 
-         
    
   
 
