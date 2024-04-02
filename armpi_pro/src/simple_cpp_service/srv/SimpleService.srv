@@ -1,0 +1,9 @@
+float64 current_robot_angle
+float64[] angle
+float64[] clock
+float64[] trash
+float64[] distance
+---
+bool success
+string message
+float64[] output

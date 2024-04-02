@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/armpi_pro/devel
+
+Name: simple_cpp_service
+Description: Description of simple_cpp_service
+Version: 0.0.0
+Cflags: -I/home/ubuntu/armpi_pro/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
